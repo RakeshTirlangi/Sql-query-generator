@@ -9,6 +9,13 @@ A simple app that transforms natural language questions into SQL queries. This t
 
 ---
 
+## Application Demo
+
+![SQL Query Generator Application Demo](sample.png)
+
+Here’s how the application looks in action. The screenshot above shows the app generating SQL queries from natural language inputs.
+
+
 ## Features
 
 - Converts natural language questions into SQL queries.
@@ -17,12 +24,6 @@ A simple app that transforms natural language questions into SQL queries. This t
 - Provides a simple explanation of the SQL query.
 
 ---
-
-## Application Demo
-
-![SQL Query Generator Application Demo](sample.png)
-
-Here’s how the application looks in action. The screenshot above shows the app generating SQL queries from natural language inputs.
 
 
 ## Installation
